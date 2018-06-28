@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<CheckPackage>
+	<Parameters PaymentType="1" TaxVariant="0" CustomerEmail="" CustomerPhone=""/>
+	<Positions>
+		<FiscalString Name="5320-2918122-00   ПРОКЛАДКА КРЫШКИ БАШМАКА" Quantity="1" Price="1" Amount="1" Department="2" Tax="18"/>
+		<FiscalString Name="1105040 СМЕННЫЙ ЭЛЕМЕНТ PL 420 Х МАН 666,1105010  6660659210" Quantity="1" Price="1" Amount="1" Department="2" Tax="18"/>
+	</Positions>
+	<Payments Cash="1" CashLessType1="1" CashLessType2="0" CashLessType3="0"/>
+</CheckPackage>

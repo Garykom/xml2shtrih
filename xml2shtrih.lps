@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="xml2shtrih.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="106"/>
+        <CursorPos X="12" Y="111"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\xml2atol2\xml2atol.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="65" Column="5" TopLine="45"/>
+      </Position1>
+      <Position2>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="114" Column="18" TopLine="129"/>
+      </Position2>
+      <Position3>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="179" Column="17" TopLine="164"/>
+      </Position3>
+      <Position4>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="262" Column="32" TopLine="254"/>
+      </Position4>
+      <Position5>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="587" TopLine="577"/>
+      </Position5>
+      <Position6>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="305" Column="17" TopLine="291"/>
+      </Position6>
+      <Position7>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="228" Column="43" TopLine="226"/>
+      </Position7>
+      <Position8>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="143" Column="82" TopLine="132"/>
+      </Position8>
+      <Position9>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="309" Column="16" TopLine="299"/>
+      </Position9>
+      <Position10>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="263" Column="33" TopLine="255"/>
+      </Position10>
+      <Position11>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="44" Column="62" TopLine="38"/>
+      </Position11>
+      <Position12>
+        <Filename Value="xml2shtrih.lpr"/>
+        <Caret Line="147" Column="64" TopLine="137"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

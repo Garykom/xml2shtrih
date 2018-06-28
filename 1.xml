@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<CheckPackage>
+	<Parameters PaymentType="1" TaxVariant="3" CustomerEmail="" CustomerPhone=""/>
+	<Positions>
+		<FiscalString Name="Замена масла в двигателе" Quantity="1.5" Price="1" Amount="1.5" Department="3" Tax="none"/>
+		<FiscalString Name="Замена фильтров" Quantity="1.5" Price="1" Amount="1.5" Department="3" Tax="none"/>
+	</Positions>
+	<Payments Cash="3" CashLessType1="0" CashLessType2="0" CashLessType3="0"/>
+</CheckPackage>
