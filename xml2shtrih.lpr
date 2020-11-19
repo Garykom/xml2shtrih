@@ -146,7 +146,7 @@ type
 
   function TFR.OpenCheck(CheckMode: integer; CheckType: integer): integer;
   begin
-    ECR.CheckType := 1;
+    ECR.CheckType := CheckType;
 
     Result := 0;
   end;
