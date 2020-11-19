@@ -313,6 +313,8 @@ type
     Result := 0;
     if TaxString = '18' then
       Result := 1;
+    if TaxString = '20' then
+      Result := 1;
     if TaxString = '10' then
       Result := 2;
     if TaxString = '0' then
